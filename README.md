@@ -107,8 +107,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Connect with Me 🌐
 
 - **LinkedIn**: [Jainish Solanki](https://linkedin.com/in/jainish-solanki)
-- **GitHub**: [github.com/jainish-solanki](https://github.com/jainish-solanki)
-- **Email**: solankijainish99@gmail.com
+- **GitHub**: [github.com/jainish5658](https://github.com/jainish5658)
+- **Email**: jainish5658@gmail.com
 
 ---
 
